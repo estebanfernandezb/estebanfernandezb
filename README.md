@@ -15,7 +15,7 @@
 ## About Me
 
 - Studying Data Science and Business Administration.
-- Interested in data analytics, finance, and business intelligence.
+- Interested in data analytics and digital transformation.
 - Exploring how technology can improve business decisions.
 - Building practical projects to turn data into insights.
 
